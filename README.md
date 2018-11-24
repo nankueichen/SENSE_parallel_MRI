@@ -1,2 +1,2 @@
 # Parallel MRI reconstruction with SENSE
-A julia notebook
+A julia-0.6 notebook 
